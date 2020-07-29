@@ -14,6 +14,7 @@
 		8F8D908724D0085100DC938D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F8D908624D0085100DC938D /* Assets.xcassets */; };
 		8F8D908A24D0085100DC938D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F8D908824D0085100DC938D /* LaunchScreen.storyboard */; };
 		8F8D909524D0085200DC938D /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D909424D0085200DC938D /* SecondKadaiAppUITests.swift */; };
+		8F8D90A224D009F100DC938D /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F8D90A124D009F100DC938D /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		8F8D909024D0085200DC938D /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F8D909424D0085200DC938D /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		8F8D909624D0085200DC938D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F8D90A124D009F100DC938D /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				8F8D907D24D0085000DC938D /* AppDelegate.swift */,
 				8F8D907F24D0085000DC938D /* SceneDelegate.swift */,
 				8F8D908124D0085000DC938D /* ViewController.swift */,
+				8F8D90A124D009F100DC938D /* ResultViewController.swift */,
 				8F8D908324D0085000DC938D /* Main.storyboard */,
 				8F8D908624D0085100DC938D /* Assets.xcassets */,
 				8F8D908824D0085100DC938D /* LaunchScreen.storyboard */,
@@ -203,6 +206,7 @@
 				8F8D908224D0085000DC938D /* ViewController.swift in Sources */,
 				8F8D907E24D0085000DC938D /* AppDelegate.swift in Sources */,
 				8F8D908024D0085000DC938D /* SceneDelegate.swift in Sources */,
+				8F8D90A224D009F100DC938D /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
